@@ -1,5 +1,9 @@
-npm install -D typescript @types/node@12
-npm install -D ts-node
+## 環境設定
+npm install
 
-## 実行
-npx ts-node src/index.ts
+## 使い方
+src/index.tsを編集する
+
+### 実行
+1. npm run build (コンパイル的なやつ)
+2. npm run start (実行)
